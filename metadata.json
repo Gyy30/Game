@@ -1,0 +1,6 @@
+{
+  "name": "Lembah Hijau: Farming & Fishing RPG",
+  "description": "Indie game bertemakan petualangan berkebun, memancing, dan bersosialisasi dengan penduduk kota dalam grafis pixel retro 16-bit yang damai.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
